@@ -1,0 +1,17 @@
+{
+    "name": "phpolar/validator",
+    "description": "Unifies validator implementations",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpolar\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Fortmeyer",
+            "email": "e.fortmeyer01@gmail.com"
+        }
+    ],
+    "require": {}
+}
