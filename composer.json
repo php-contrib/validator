@@ -15,6 +15,6 @@
     ],
     "require": {},
     "suggest": {
-        "phpolar/validation": "A set of nifty validators"
+        "phpolar/validators": "A set of nifty validators"
     }
 }
