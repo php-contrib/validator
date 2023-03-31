@@ -13,5 +13,8 @@
             "email": "e.fortmeyer01@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "suggest": {
+        "phpolar/validation": "A set of nifty validators"
+    }
 }
