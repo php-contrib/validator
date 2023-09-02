@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phpolar\Validator;
+namespace PhpContrib\Validator;
 
 use Stringable;
 

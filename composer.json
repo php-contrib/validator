@@ -1,20 +1,20 @@
 {
-    "name": "phpolar/validator",
-    "description": "Unifies validator implementations",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Phpolar\\Validator\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Eric Fortmeyer",
-            "email": "e.fortmeyer01@gmail.com"
-        }
-    ],
-    "require": {},
-    "suggest": {
-        "phpolar/validators": "A set of nifty validators"
+  "name": "php-contrib/validator",
+  "description": "Unifies validator implementations",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PhpContrib\\Validator\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "Eric Fortmeyer",
+      "email": "e.fortmeyer01@gmail.com"
+    }
+  ],
+  "require": {},
+  "suggest": {
+    "phpolar/validators": "A set of nifty validators"
+  }
 }
