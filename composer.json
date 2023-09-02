@@ -1,0 +1,20 @@
+{
+  "name": "php-contrib/validator",
+  "description": " Supports validation of property values ",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PhpContrib\\Validator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Eric Fortmeyer",
+      "email": "e.fortmeyer01@gmail.com"
+    }
+  ],
+  "require": {},
+  "suggest": {
+    "phpolar/validators": "A set of nifty validators"
+  }
+}
