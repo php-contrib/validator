@@ -1,6 +1,6 @@
 {
   "name": "php-contrib/validator",
-  "description": "Unifies validator implementations",
+  "description": " Supports validation of property values ",
   "license": "MIT",
   "autoload": {
     "psr-4": {
