@@ -13,7 +13,9 @@
       "email": "e.fortmeyer01@gmail.com"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">= 7.0"
+  },
   "suggest": {
     "phpolar/validators": "A set of nifty validators"
   }
